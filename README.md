@@ -5,6 +5,7 @@ A Go program that helps you find the movies a certain actor has played in based 
 2. Run go get github.com:ytulsiani/MovieFinder.git
 3. Run cd $GOPATH/src/github.com/ytulsiani/MovieFinder
 3. Run go install and go run main.go "ACTOR_NAME"
-# ToDo
-Allow users to input their own file
-Automated testing
+# To Do
+1. Clean up code
+2. Allow users to input their own file
+3. Automated testing
